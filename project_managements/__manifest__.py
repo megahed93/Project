@@ -21,7 +21,7 @@
     'installable': True,
     'application': True,
 'images': [
-    'static/description/cover.png'  # صورة الغلاف
     'static/description/icon.png',  # الأيقونة
+    'static/description/cover.png'  # صورة الغلاف
 ],
 }
