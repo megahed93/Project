@@ -24,5 +24,5 @@
     'static/description/icon.png',  # الأيقونة
     'static/description/cover.png'  # صورة الغلاف
 ],
-    'license': 'MIT',
+    'license': 'OPL-1',
 }
