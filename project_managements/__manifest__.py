@@ -21,4 +21,5 @@
     ],
     'installable': True,
     'application': True,
+    'images': ['static/description/Tasks.jpg'],
 }
