@@ -1,7 +1,8 @@
 import os
 
 def get_description():
-    with open(os.path.join(os.path.dirname(__file__), 'static/description/description.html'), 'r') as file:
+    file_path = os.path.join(os.path.dirname(__file__), 'static/description/description.html')
+    with open(file_path, 'r') as file:
         return file.read()
 
 {
