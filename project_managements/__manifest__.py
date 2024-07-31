@@ -8,7 +8,6 @@
         tracking task progress, adding comments, history tracking, and file attachments.
     """,
     'author': 'Engineer',
-    'website': 'https://www.example.com',
     'category': 'Project',
     'depends': ['base', 'mail'],
     'data': [
