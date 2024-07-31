@@ -20,5 +20,8 @@
     ],
     'installable': True,
     'application': True,
-    'images': ['static/description/Tasks.jpg'],
+'images': [
+    'static/description/icon.png',  # الأيقونة
+    'static/description/cover.png'  # صورة الغلاف
+],
 }
