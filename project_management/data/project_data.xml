@@ -1,0 +1,12 @@
+<odoo>
+    <!-- Example data records for the project and tasks -->
+    <record id="project_example" model="project.project">
+        <field name="name">Example Project</field>
+    </record>
+
+    <record id="task_example" model="project.task">
+        <field name="name">Example Task</field>
+        <field name="description">This is an example task.</field>
+        <field name="project_id" ref="project_example"/>
+    </record>
+</odoo>
