@@ -22,6 +22,4 @@
     'installable': True,
     'application': True,
     'images': ['static/description/Tasks.jpg'],
-    'images': ['static/description/cover.png'],
-
 }
